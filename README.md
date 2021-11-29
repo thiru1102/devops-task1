@@ -17,8 +17,8 @@
 2. files as part of repo[2 files]
 
 devops-task1
-├── manifest.yml
-├── README.md
+manifest.yml\
+README.md
 
 
 3. Execute the below commands.
